@@ -15,4 +15,5 @@ const userInfo = (props) => {
                 <p class="bio">Bio: null</p>
         </div>
     )
-}
+    
+    export default userInfo;
